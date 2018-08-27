@@ -1,0 +1,7 @@
+[
+  "test_main.py::TestMain::()::test_aplications",
+  "test_main.py::TestMain::()::test_access_user",
+  "test_main.py::TestMain::()::test_persons_lastname_name",
+  "test_main.py::TestMain::()::TestUser::()::test_get_access_admin",
+  "test_main.py::TestMain::()::TestUser::()::test_get_aplication_admin"
+]
